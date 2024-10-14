@@ -6,6 +6,7 @@ A = 0
 operator = ""
 myPage=""
 flag=False
+envFlag=True
  
  
 img = PhotoImage(file='1.png')
