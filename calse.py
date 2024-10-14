@@ -6,8 +6,8 @@ A = 0
 B = 1 
 operator = ""
 myPage=""
-flag=False
-data=""
+flag=True
+
  
  
 img = PhotoImage(file='1.png')
