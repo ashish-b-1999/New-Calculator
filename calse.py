@@ -3,9 +3,11 @@ import math
  
 val = ""
 A = 0
+B = 1 
 operator = ""
 myPage=""
 flag=True
+
  
  
 img = PhotoImage(file='1.png')
