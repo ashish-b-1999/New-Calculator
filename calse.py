@@ -6,7 +6,8 @@ A = 0
 B = 1 
 operator = ""
 myPage=""
-flag=True
+flag=False
+envFlag=True
 
  
  
