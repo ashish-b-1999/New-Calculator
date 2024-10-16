@@ -3,10 +3,12 @@ import math
  
 val = ""
 A = 0
+B = 1 
 operator = ""
 myPage=""
 flag=False
 envFlag=True
+
  
  
 img = PhotoImage(file='1.png')
